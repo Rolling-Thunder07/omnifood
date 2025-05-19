@@ -30,7 +30,7 @@ Omnifood is an AI-powered food subscription that will make you eat healthy again
 
 ## 🌐 Live Demo
 
-Check out the live version: [Omnifood](https://Rolling-Thunder07.github.io/omnifood/)
+Check out the live version: [Omnifood](https://omnifood-hritik.netlify.app/)
 
 ## 🔧 Setup
 
