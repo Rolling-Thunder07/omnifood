@@ -17,9 +17,13 @@
 
 Omnifood is a fictional premium food delivery service with the mission to bring affordable and healthy meals to as many people as possible. This project was built as part of the "Build Responsive Real-World Websites with HTML and CSS" course by Jonas Schmedtmann on Udemy.
 
+<br>
+
 ## 🍽️ Description
 
 Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs. This single-page website showcases the service's features, how it works, meal examples, testimonials, pricing, and a contact form.
+
+<br>
 
 ## ✨ Features
 
@@ -30,6 +34,8 @@ Omnifood is an AI-powered food subscription that will make you eat healthy again
 - Mobile navigation
 - Interactive elements with JavaScript
 
+<br>
+
 ## 🚀 Technologies Used
 
 - HTML5
@@ -39,9 +45,13 @@ Omnifood is an AI-powered food subscription that will make you eat healthy again
 - Google Fonts
 - Responsive design principles
 
+<br>
+
 ## 🌐 Live Demo
 
 Check out the live version: [Omnifood](https://omnifood-hritik.netlify.app/)
+
+<br>
 
 ## 🔧 Setup
 
@@ -57,11 +67,15 @@ cd omnifood
 # Open with a live server or simply open index.html in your browser
 ```
 
+<br>
+
 ## 📝 Credits
 
 - Design and course: [Jonas Schmedtmann]
 - Development: [Hritik Kumar]
 - Images: Provided in the course materials
+  
+<br>
 
 ## 📜 License
 
