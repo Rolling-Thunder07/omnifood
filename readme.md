@@ -1,7 +1,15 @@
-# Omnifood
+<p align="center">
+  <h1>🚀 Welcome to Omnifood!</h1>
+  Affordable and healthy meals delivered to you 🥗🍽️
+</p>
+
+<br><br>
+
 <p align="center">
 <img src="https://github.com/Rolling-Thunder07/omnifood/raw/main/img/hero-min.png" width="600" height="592">
 </p>
+
+<br><br>
 
 ## 📋 About
 
