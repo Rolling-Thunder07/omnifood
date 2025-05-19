@@ -8,7 +8,7 @@
 <br><br>
 
 <p align="center">
-<img src="https://github.com/Rolling-Thunder07/omnifood/raw/main/img/hero-min.png" width="600" height="592">
+<img src="https://github.com/Rolling-Thunder07/omnifood/raw/main/img/hero-min.png" width="600">
 </p>
 
 <br><br>
