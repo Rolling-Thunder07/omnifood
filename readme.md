@@ -15,7 +15,7 @@
 
 ## 📋 About
 
-Omnifood is a fictional premium food delivery service with the mission to bring affordable and healthy meals to as many people as possible. This project was built as part of a course I followed on Udemy.
+Omnifood is a fictional premium food delivery service with the mission to bring affordable and healthy meals to as many people as possible. This project was built as part of a course on Introduction to HTML and CSS I followed on Udemy.
 
 <br>
 
