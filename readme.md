@@ -32,19 +32,19 @@ Omnifood is an AI-powered food subscription that will make you eat healthy again
 
 ### Hero Section
 
-![Hero Section](https://github.com/Rolling-Thunder07/omnifood/img/hero.png)
+![Hero Section](https://github.com/Rolling-Thunder07/omnifood/raw/main/img/hero.png)
 
 ### How It Works
 
-![How It Works](https://github.com/Rolling-Thunder07/omnifood/img/how-it-works.png)
+![How It Works](https://github.com/Rolling-Thunder07/omnifood/raw/main/img/how-it-works.png)
 
 ### Meals
 
-![Meals](https://github.com/Rolling-Thunder07/omnifood/img/meals.png)
+![Meals](https://github.com/Rolling-Thunder07/omnifood/raw/main/img/meals.png)
 
 ### Pricing
 
-![Pricing](https://github.com/Rolling-Thunder07/omnifood/img/pricing.png)
+![Pricing](https://github.com/Rolling-Thunder07/omnifood/raw/main/img/pricing.png)
 
 ## 🌐 Live Demo
 
