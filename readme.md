@@ -1,7 +1,9 @@
+<h1 align="center">🍜 Omnifood</h1>
+
 <p align="center">
-  <h1>🚀 Welcome to Omnifood!</h1>
   Affordable and healthy meals delivered to you 🥗🍽️
 </p>
+
 
 <br><br>
 
