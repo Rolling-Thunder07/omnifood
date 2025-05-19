@@ -1,6 +1,6 @@
 # Omnifood
 
-![Omnifood Hero Section](https://github.com/Rolling-Thunder07 /omnifood/raw/main/img/hero-min.png)
+![Omnifood Hero Section](https://github.com/Rolling-Thunder07/omnifood/raw/main/img/hero-min.png)
 
 ## 📋 About
 
@@ -32,23 +32,23 @@ Omnifood is an AI-powered food subscription that will make you eat healthy again
 
 ### Hero Section
 
-![Hero Section](https://github.com/Rolling-Thunder07 /omnifood/img/hero.png)
+![Hero Section](https://github.com/Rolling-Thunder07/omnifood/img/hero.png)
 
 ### How It Works
 
-![How It Works](https://github.com/Rolling-Thunder07 /omnifood/img/how-it-works.png)
+![How It Works](https://github.com/Rolling-Thunder07/omnifood/img/how-it-works.png)
 
 ### Meals
 
-![Meals](https://github.com/Rolling-Thunder07 /omnifood/img/meals.png)
+![Meals](https://github.com/Rolling-Thunder07/omnifood/img/meals.png)
 
 ### Pricing
 
-![Pricing](https://github.com/Rolling-Thunder07 /omnifood/img/pricing.png)
+![Pricing](https://github.com/Rolling-Thunder07/omnifood/img/pricing.png)
 
 ## 🌐 Live Demo
 
-Check out the live version: [Omnifood](https://Rolling-Thunder07 .github.io/omnifood/)
+Check out the live version: [Omnifood](https://Rolling-Thunder07.github.io/omnifood/)
 
 ## 🔧 Setup
 
