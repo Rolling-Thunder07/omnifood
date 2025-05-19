@@ -1,11 +1,12 @@
-🍽️ Omnifood – AI-powered Healthy Meal Subscription
+<h1>🍽️ Omnifood – AI-powered Healthy Meal Subscription</h1>
 
-        🚧 This is a demo project for a fictional food-tech company, built by me with guidance from the amazing Jonas Schmedtmann Udemy Course.
-        It showcases a modern, responsive, and beautifully designed landing page.
+        <h3>🚧 This is a demo project for a fictional food-tech company, built by me with guidance from the amazing Jonas Schmedtmann Udemy Course.
+        It showcases a modern, responsive, and beautifully designed landing page.</h3>
 
-Welcome to the Omnifood project – your intelligent, hassle-free, and delicious food subscription service! Powered by AI 🤖, we deliver customized meals to your doorstep every single day 🏠.
-Omnifood is a food-tech company on a mission to revolutionize how busy people eat. Whether you are keto 🥩, vegan 🥦, or kid-friendly 👶, our AI crafts a weekly meal plan tailored to your needs.
+<h2>Welcome to the Omnifood project – your intelligent, hassle-free, and delicious food subscription service! Powered by AI 🤖, we deliver customized meals to your doorstep every single day 🏠.
+Omnifood is a food-tech company on a mission to revolutionize how busy people eat. Whether you are keto 🥩, vegan 🥦, or kid-friendly 👶, our AI crafts a weekly meal plan tailored to your needs.</h2>
 
+<h3>
 🧠 AI-powered meal planning
 🍽️ Local, organic ingredients
 📦 Freshly cooked & delivered
@@ -16,9 +17,12 @@ Omnifood is a food-tech company on a mission to revolutionize how busy people ea
 🌱 100% local, fresh, and organic ingredients
 ♻️ Zero waste: reusable containers
 ⏸️ Pause anytime – get refunds for unused days
+</h3>
 
+<h2>
 🧰 Tech Stack & Tools Used
-
+</h2>
+<h3>
   1. HTML5 – Semantic structure and content markup
   2. CSS3 – Styling, animations, and responsive layouts
   3. JavaScript (Vanilla JS) – Interactive behavior and DOM manipulation
@@ -32,3 +36,4 @@ Omnifood is a food-tech company on a mission to revolutionize how busy people ea
   11. Netlify-compatible Forms – Ready for form submissions on Netlify hosting  
   12. Git & GitHub – Version control and deployment  
   13. GitHub Pages – Static site hosting
+</h3>
