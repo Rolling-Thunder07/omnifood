@@ -1,0 +1,34 @@
+🍽️ Omnifood – AI-powered Healthy Meal Subscription
+
+        🚧 This is a demo project for a fictional food-tech company, built by me with guidance from the amazing Jonas Schmedtmann Udemy Course.
+        It showcases a modern, responsive, and beautifully designed landing page.
+
+Welcome to the Omnifood project – your intelligent, hassle-free, and delicious food subscription service! Powered by AI 🤖, we deliver customized meals to your doorstep every single day 🏠.
+Omnifood is a food-tech company on a mission to revolutionize how busy people eat. Whether you are keto 🥩, vegan 🥦, or kid-friendly 👶, our AI crafts a weekly meal plan tailored to your needs.
+
+🧠 AI-powered meal planning
+🍽️ Local, organic ingredients
+📦 Freshly cooked & delivered
+📱 Flexible subscription & scheduling
+
+✨ Never cook again!
+📆 365-day meal service – even on holidays!
+🌱 100% local, fresh, and organic ingredients
+♻️ Zero waste: reusable containers
+⏸️ Pause anytime – get refunds for unused days
+
+🧰 Tech Stack & Tools Used
+
+  1. HTML5 – Semantic structure and content markup
+  2. CSS3 – Styling, animations, and responsive layouts
+  3. JavaScript (Vanilla JS) – Interactive behavior and DOM manipulation
+  4. Flexbox & CSS Grid – Modern layout systems for responsive design
+  5. Media Queries – Fully mobile-responsive design  
+  6. Progressive Web App (PWA) – Using manifest.webmanifest for installable experience  
+  7. Google Fonts – Custom typography with the Rubik font  
+  8. Ionicons – Icon library for visual enhancement 
+  9. Smooth Scroll Polyfill – Smooth scrolling compatibility 
+  10. Form Handling (HTML5) – Basic contact and signup forms  
+  11. Netlify-compatible Forms – Ready for form submissions on Netlify hosting  
+  12. Git & GitHub – Version control and deployment  
+  13. GitHub Pages – Static site hosting
