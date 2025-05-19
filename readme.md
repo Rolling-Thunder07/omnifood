@@ -1,7 +1,7 @@
 # Omnifood
-
-![Omnifood Hero Section](https://github.com/Rolling-Thunder07/omnifood/raw/main/img/hero-min.png)
-
+<p align="center">
+<img src="https://github.com/Rolling-Thunder07/omnifood/raw/main/img/hero-min.png" width="600" height="592">
+</p>
 ## 📋 About
 
 Omnifood is a fictional premium food delivery service with the mission to bring affordable and healthy meals to as many people as possible. This project was built as part of the "Build Responsive Real-World Websites with HTML and CSS" course by Jonas Schmedtmann on Udemy.
