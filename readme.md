@@ -56,7 +56,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rolling-Thunder07 /omnifood.git
+git clone https://github.com/Rolling-Thunder07/omnifood.git
 
 # Navigate to the project directory
 cd omnifood
@@ -66,8 +66,8 @@ cd omnifood
 
 ## 📝 Credits
 
-- Design and course: [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
-- Development: [Your Name]
+- Design and course: [Jonas Schmedtmann]
+- Development: [Hritik Kumar]
 - Images: Provided in the course materials
 
 ## 📜 License
